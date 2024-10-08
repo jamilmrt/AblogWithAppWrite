@@ -22,4 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-.evv
+.env
+.123456
+.123456.pub
+.gitignore
