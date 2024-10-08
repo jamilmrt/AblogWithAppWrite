@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+.env
 dist
 dist-ssr
 *.local
@@ -26,3 +27,4 @@ dist-ssr
 .123456
 .123456.pub
 .gitignore
+.env
